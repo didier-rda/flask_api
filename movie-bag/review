@@ -1,0 +1,4 @@
+What we learned from this part of the series?
+Install Flask in a new virtual environment using pipenv
+Create a simple hello world flask application
+Create API endpoints with CRUD functionality.
